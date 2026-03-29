@@ -48,7 +48,7 @@
 
 **AI/ML:** Deep Learning, Time-Series Models, Signal Processing  
 **Backend:** Python, Go, APIs, Distributed Systems  
-**Mobile:** Android, Hybrid Apps  
+**Mobile:** iOS, Flutter Apps  
 **Cloud:** AWS, GCP, IoT Integration  
 **Other:** MLOps, Edge AI, Security & Compliance  
 
