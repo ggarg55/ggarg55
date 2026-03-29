@@ -64,7 +64,6 @@
 ## 🌐 Connect
 
 - LinkedIn: https://www.linkedin.com/in/ggourav/
-- Email: ggarg55@gmail.com
 
 ---
 
