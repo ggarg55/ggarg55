@@ -1,76 +1,73 @@
-<h1 align="center">Hi, I'm Gaurav 👋</h1>
+<h1 align="center">Hi, I'm Gourav Garg 👋</h1>
 
 <p align="center">
-  <b>AI/ML Builder • Systems Engineer • Product Thinker</b>
+  <b>AI/ML Product Leader • HealthTech • Signal Processing</b>
 </p>
 
 <p align="center">
-  I build intelligent systems and production-grade applications — 
-  bridging AI models with real-world products.
+  I build real-time intelligent systems that transform biosignals into actionable clinical insights.
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🧠 What I Do
 
-- Build **AI/ML-powered applications**
-- Design **scalable systems & architectures**
-- Work across **mobile, backend, and intelligent systems**
-- Focus on **performance, usability, and real-world impact**
-
----
-
-## 🧠 Engineering Depth
-
-- AI / ML Systems  
-- Data Pipelines & Model Deployment  
-- Mobile & Edge Computing  
-- System Design & Performance Optimization  
-- Product Engineering & UX Thinking  
+- Design and deploy **AI systems for biosignal intelligence (ECG/health data)**
+- Bridge **deep learning models with real-world mobile & IoT systems**
+- Lead **end-to-end product engineering** — from data to deployment
+- Optimize **edge inference, latency, and system scalability**
 
 ---
 
-## 🔥 Selected Work
+## 🔬 Core Focus
 
-### 🧠 Intelligent System / ML Application
-- Built real-world ML-driven functionality
-- Focus on practical impact and performance
+- Time-Series Modeling (ECG / Biosignals)
+- Deep Learning for Healthcare
+- Edge AI & On-device Inference
+- MLOps & Scalable ML Systems
+- Distributed Backend & Mobile Integration
 
-### 📱 Mobile-first Scalable System
-- Designed architecture for performance and usability
-- Optimized for real-world constraints
+---
 
-### ⚡ System Optimization
-- Improved performance, reliability, and efficiency
-- Focus on engineering depth
+## 🚀 Experience Highlights
+
+### 🏥 AliveCor India — Technical Lead
+- Leading development of AI-driven health systems
+- Built scalable architecture integrating ML + mobile + backend
+- Focus on real-time inference and clinical-grade reliability
+
+### ⚡ Willow Pump — Senior Software Engineer
+- Developed high-performance, user-centric product systems
+
+### 🏗 Allegion — Software Engineer
+- Built robust and scalable enterprise systems
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java/Kotlin, JavaScript  
-**AI/ML:** TensorFlow, PyTorch, LLMs  
-**Backend:** APIs, system design  
-**Mobile:** Android  
-**Tools:** Git, Docker, CI/CD  
+**AI/ML:** Deep Learning, Time-Series Models, Signal Processing  
+**Backend:** Python, Go, APIs, Distributed Systems  
+**Mobile:** Android, Hybrid Apps  
+**Cloud:** AWS, GCP, IoT Integration  
+**Other:** MLOps, Edge AI, Security & Compliance  
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+- M.Tech in AI/ML — IIT Jodhpur  
+- Exploring real-time ECG intelligence & edge AI systems  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 - LinkedIn: https://www.linkedin.com/in/ggourav/
-- GitHub: https://github.com/YOUR_USERNAME
+- Email: ggarg55@gmail.com
 
 ---
 
 <p align="center">
-  ⚡ I build systems that actually ship, scale, and solve real problems.
+  ⚡ Building systems where AI meets real-world healthcare impact.
 </p>
